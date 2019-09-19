@@ -9,5 +9,6 @@ This python script will take in a Twitter handle and output a sentiment analysis
 2) TextBlob - Sentiment Analysis API
 
 ### How to run this program:
-1) Open up terminal and run the command "python webscrape.py"
-2) Input a valid twitter handle into the program
+1) Open up terminal and navigate to directory containing files
+2) In terminal, run the command "python webscrape.py"
+3) Input a valid twitter handle into the program
