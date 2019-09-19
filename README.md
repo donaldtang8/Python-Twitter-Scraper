@@ -1,4 +1,4 @@
-# :bird: Twitter Web Scraper Sentiment Analysis
+# :snake: Twitter Web Scraper Sentiment Analysis
 
 ### Description
 
