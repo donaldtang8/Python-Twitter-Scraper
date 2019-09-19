@@ -1,5 +1,4 @@
-:bird: 
-# Twitter Web Scraper Sentiment Analysis
+# :bird: Twitter Web Scraper Sentiment Analysis
 
 ### Description
 
